@@ -12,11 +12,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
-      "value": "$"
+      "value": "|"
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
-      "value": "false",
+      "value": "true",
       "required": false
     },
     "AUTO_STATUS_REACT": {
