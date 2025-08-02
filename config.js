@@ -41,7 +41,7 @@ global.ANTI_TAG = toBool(process.env.ANTI_TAG);
 global.ANTICALL = toBool(process.env.ANTICALL);
 global.antilink = toBool(process.env.ANTILINK);"true";
 global.antilinkkick = toBool(process.env.ANTILINK_KICK);true;
-global.antilinkwarn = toBool(process.env.ANTILINK_WARN);true;
+global.antilinkwarn = toBool(process.env.ANTILINK_WARN);"true";
 
 // Messages
 global.mess = {
